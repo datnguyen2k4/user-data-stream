@@ -70,7 +70,7 @@ The system consists of the following key components, integrated to form a comple
 
 *Apache Superset*: Data visualization.
 
-*Trino*: 
+*Trino*: Distributed SQL querying.
 
 *Docker*: Containerization of services
 
@@ -82,7 +82,7 @@ Docker Compose: Installed to manage Docker services.
 ### Installation
 #### Step 1: Clone the Repository: Clone the project source code from the repository (assuming you have a repository containing kafka_stream.py, spark_stream.py, and docker-compose.yml):
 
-**git clone <repository_url>**
+**git clone https://github.com/datnguyen2k4/user-data-stream.git**
 
 **cd user_data_stream**
 
